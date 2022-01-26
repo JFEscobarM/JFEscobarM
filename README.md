@@ -4,7 +4,7 @@ I'm 18 years old. I study at EAN university and I'm a systems engineer in traini
 
 
 You can find me 🗺️:
-- Gmail: Jescocb41258@universidadean.edu.co
+- [Gmail](Jescocb41258@universidadean.edu.co)
 - [Instagram](https://www.instagram.com/juan17._24/)
 
 

@@ -1,10 +1,10 @@
 ### Hi I'm Juan 😉👋
 I'm 18 years old. I study at EAN university and I'm a systems engineer in training.
-
+I am a very hard-working, hyperactive, friendly person who seeks to generate an environment of trust.
 
 
 You can find me 🗺️:
-- [Gmail](Jescocb41258@universidadean.edu.co)
+- [Gmail](https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=1&msaredir=1&client-request-id=336ab493-1f92-5637-ab14-9bab9f3d4edb&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=universidadean.edu.co&nonce=637788283431093845.20a8c0e3-e6bd-4695-ae78-89740d224dd3&state=LYtBDoMgEACx_Qs3dAWU9UD6g_5hy25SE9REi-3zS5MeZg6TTKOUulYulQaqVBhdCIgWnXc9TA790FogTCDOyPhg48dpMCQBDU7BA1vrmV1T33u3vam77UJ5iWWdT9mPmYmF1la4tGnT8jnOsufY65xNStEBWr1s_Gug8z9QeT2j_QI)
 - [Instagram](https://www.instagram.com/juan17._24/)
 
 
